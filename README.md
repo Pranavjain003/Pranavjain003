@@ -2,6 +2,19 @@
 )](https://Pranavjain003.io
 )
 <h1 align="center">Hey There 👋, I'm Pranav Jain</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hey!+This+is+Pranav+Jain;I+am+Computer+Science+Undergraduate;I+am+a+Programmer!;I+am+a+Developer!;Eat!+Sleep!+Code!+Repeat!)](https://git.io/typing-svg)
+
+
+                                    _____________________________________
+                                    < Welcome To My Personal GitHub Page! >
+                                    ------------------------------------- 
+                                    
+                                                ૮˶• ﻌ •˶ა   
+                                               ./づ~ 🦴       
+   
+
+<br />
 <h3 align="center">Aspiring Computer Science Engineer with a strong foundation in data structures, algorithms, and software development. Experienced in developing web applications , with a keen interest in artificial intelligence and machine learning. Proven ability to work collaboratively in team environments and deliver high-quality projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 
