@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **pranavjain003@gmail.com**
+- my portfolio, visit [Portfolio/](https://pranavjain003.github.io/Portfolio/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
